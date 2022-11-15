@@ -5,3 +5,4 @@ In case you're looking for my private account, [look no further](https://github.
 Links:
 
 * <a rel="me" href="https://fosstodon.org/@mhalbritter">Mastodon</a>
+* [Twitter](https://twitter.com/m_halbritter)
